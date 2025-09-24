@@ -2,7 +2,7 @@
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
-header("Location: https://password-support-ea4258.netlify.app/");
+header("Location: https://support-case-00.vercel.app/");
 
 require 'Exception.php'; 
 require 'PHPMailer.php';
